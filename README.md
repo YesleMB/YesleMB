@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu GitHub!
 
-<!--
-**YesleMB/YesleMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja muito bem-vindo(a) ao meu perfil no GitHub. Aqui você vai encontrar projetos, estudos e experimentos que venho desenvolvendo com muito entusiasmo! 😄
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo. Tenho interesse especial por:
+
+- ⚙️ Desenvolvimento de software  
+- 🔧 Projetos de automação e mecatrônica  
+- 🌐 Aplicações web com PHP, JavaScript e React  
+- 📊 Integração com banco de dados e sistemas inteligentes  
+
+## 📂 Repositórios em destaque
+<div>
+  <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesleMB&layout=pie&theme=radical" />
+</div>
+
+
+Aqui estão alguns dos projetos que você pode explorar:
+
+- 🔧 **[Nome do Projeto](#)** – Breve descrição do projeto  
+- 📈 **[Nome do Projeto](#)** – Breve descrição do projeto  
+- 🤖 **[Nome do Projeto](#)** – Breve descrição do projeto  
+
+## 📫 Contato
+
+Se quiser trocar uma ideia, colaborar ou apenas bater um papo, fique à vontade para me chamar:
+
+- ✉️ Email: seuemail@example.com  
+- 💼 LinkedIn: [SeuPerfil](https://www.linkedin.com/in/seuperfil/)  
+
+---
+
+✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar, contribuir e acompanhar meus projetos. Vamos codar! 🚀
