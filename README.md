@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo. Ten
 
 ## 📂 Repositórios em destaque
 <div>
-  <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesleMB&layout=pie&theme=radical" />
+  <img align="center" width="400em" heigth = "200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesleMB&layout=pie&theme=radical" />
 </div>
 
 
