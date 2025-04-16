@@ -1,17 +1,13 @@
-# 👋 Bem-vindo ao meu GitHub!
 
-Olá! Seja muito bem-vindo(a) ao meu perfil no GitHub. Aqui você vai encontrar projetos, estudos e experimentos que venho desenvolvendo com muito entusiasmo! 😄
+## 💻 Um pouco sobre mim
 
-## 💻 Sobre mim
+Desde pequeno, sempre gostei de construir e criar coisas. Encontrei esse caminho na programação, onde posso desenvolver, colaborar, participar e testar minhas capacidades nos mais diversos desafios. Desde então, venho estudando, projetando e realizando pequenos projetos. Enfim, posso me considerar alguém que gosta de resolver problemas — e que não tem medo deles.
 
-Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo. Tenho interesse especial por:
+- ⚙️ Java para back-end
+- 🌐 Aplicações web com JavaScript, TypeScript e React  
+- 📊 Banco de dados MySQL/ Oracle SQL
 
-- ⚙️ Desenvolvimento de software  
-- 🔧 Projetos de automação e mecatrônica  
-- 🌐 Aplicações web com PHP, JavaScript e React  
-- 📊 Integração com banco de dados e sistemas inteligentes  
-
-## 📂 Repositórios em destaque
+## 📂 Linguagens mais usadas:
 
 <div align="left">
   <img width="400rem" height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesleMB&layout=donut&theme=radical" />
