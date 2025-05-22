@@ -13,16 +13,18 @@ Desde pequeno, sempre gostei de construir e criar coisas. Encontrei esse caminho
   <img width="400rem" height="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesleMB&layout=donut&theme=radical" />
 </div>
 
+<div>
+  <img width = "400rem" height ="300rem" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
+  
+</div>
+
 Aqui estão alguns dos projetos que você pode explorar:
 
-- 🔧 **[Nome do Projeto](#)** – Breve descrição do projeto  
-- 📈 **[Nome do Projeto](#)** – Breve descrição do projeto  
-- 🤖 **[Nome do Projeto](#)** – Breve descrição do projeto  
+- 🔧 **[Nome do Projeto](#)** – 
 
 ## 📫 Contato
 
-Se quiser trocar uma ideia, colaborar ou apenas bater um papo, fique à vontade para me chamar:
-
+Caso queira trocar uma idea ou sequer debater algum topico, estes são os meus meios de contato:
 - ✉️ **Email:** wesleymb2002@gmail.com  
 - 💼 **LinkedIn:** [Wesley Mendes Barboza](https://www.linkedin.com/in/wesley-mendes-barboza)
 
